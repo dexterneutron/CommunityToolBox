@@ -1,0 +1,27 @@
+{
+    "name": "CommunityToolBox",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./CommunityToolBox.js",
+    "author": {
+        "name": "dexterneutron",
+        "email": "felixdlugo@gmail.com"
+    },
+     "dependencies": {
+ "mongoose": "~3.6.11",
+ "express": "^4.7.1",
+ "method-override": "^2.1.2",
+ "body-parser": "^1.5.1"
+ },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/CommunityToolBox.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/CommunityToolBox/issues"
+    }
+}
